@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+laugh-off-bundle.tar.gz
+kit.tar.gz
+kit/
+check-output.txt

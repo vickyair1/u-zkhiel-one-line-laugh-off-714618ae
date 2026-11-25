@@ -1,0 +1,1 @@
+Build a make.fun bounty entry: u-zkhiel-one-line-laugh-off-714618ae — "One-Line Laugh-Off", $2 winner-takes-all, FREE entry. Invent ONE funny line that lands on a cold read, as a deterministic Python program that writes exactly that line to /output/entry.txt.
